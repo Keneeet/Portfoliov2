@@ -23,7 +23,7 @@ function Section() {
               <div className='absolute px-9 inset-0 flex flex-col justify-end -bottom-60 group-hover:bottom-0 duration-300'>
                 <h1 className="text-3xl font-poppins font-bold text-white">NEXTPLAY</h1>
                 <p className='text-white font-poppins mr-[6vh]'>Nextplay offers a diverse music library catering to all tastes.</p>
-                <a href="" className='text-[#c6e58a] font-briceThin mb-[3vh] mt-3 before:content-"" before:w-[0vh] before:h-[1px] before:bg-[#c6e58a] before:absolute before:bottom-6 before:rounded-xl hover:before:w-[16vh] before:duration-300'>See Case Study</a>
+                <a href="https://nextplay.framer.website/" className='text-[#c6e58a] font-briceThin mb-[3vh] mt-3 before:content-"" before:w-[0vh] before:h-[1px] before:bg-[#c6e58a] before:absolute before:bottom-6 before:rounded-xl hover:before:w-[16vh] before:duration-300'>See Case Study</a>
               </div>
             </div>
 
